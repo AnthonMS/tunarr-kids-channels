@@ -10,7 +10,7 @@ Jellyfin provides the catalogue, Tunarr reads shared media and creates the chann
 
 ## Status
 
-This repository contains the reference scripts for the bilingual four-channel guide being prepared for mlgaard.dk. The article remains a draft while its text is reviewed.
+This repository contains the reference scripts for the bilingual four-channel guide approved for publication on mlgaard.dk.
 
 The scripts were extracted from a working installation. Addresses, channel UUIDs and the exact exceptional media path have been replaced with examples. Algorithms and fixtures are retained. The extracted package has not been deployed to the server.
 
