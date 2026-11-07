@@ -1,0 +1,12 @@
+AI/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+!.env.example
+state.json
+pending.json
+disney-audio.json
+backups/
+*.log
